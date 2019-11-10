@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging D:\mengyun_zheng_mltest\target\scala-2.11\cerebri_test_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\mengyun_zheng_mltest\target\scala-2.11\classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parkinsons.data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\mengyun_zheng_mltest\target\scala-2.11\classes\parkinsons.data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RandomForest$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\mengyun_zheng_mltest\target\scala-2.11\classes\RandomForest$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RandomForest$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\mengyun_zheng_mltest\target\scala-2.11\classes\RandomForest$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RandomForest$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\mengyun_zheng_mltest\target\scala-2.11\classes\RandomForest$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RandomForest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\mengyun_zheng_mltest\target\scala-2.11\classes\RandomForest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RandomForest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\mengyun_zheng_mltest\target\scala-2.11\classes\RandomForest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
